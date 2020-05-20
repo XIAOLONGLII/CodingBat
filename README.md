@@ -1,4 +1,4 @@
 # CodingBat
 
-This is for our our coding chanlleges!!
+This repo is for our coding challenges!!
 
